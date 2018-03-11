@@ -19,16 +19,17 @@
 4. Select the folder location of your choice
 5. Open the folder with your [code editor](https://github.com/csc2018/march-hols#code-editors) and edit the assignment files in the `assignments` folder
 6. You can read the instructions for each assignment on the GitHub repository itself (e.g. [here](https://github.com/csc2018/march-hols/blob/master/assignments/01-introduction/readme.md))
-
+ 
 # Submission
 
-1. Tick all changed files ready for upload in GitHub Desktop (if you don't see your files and its changes, try saving and waiting)
+1. Tick all changed files (in the *Changes* column on the left) ready for upload in GitHub Desktop (if you don't see your files and its changes, try saving and waiting)
 2. Add a helpful commit message and optional description
-3. Press **Publish**/**Push** new changes to upload your code
+3. Press "**Commit to master**" to commit your changes
+4. Press **Publish**/**Push origin** on the top to upload your code
 
 # Updating
 
-1. Press **Pull**/**Fetch Origin** in GitHub Desktop to get the updated version of this repo
+1. Press **Pull**/**Fetch origin** at the top of GitHub Desktop to get the updated version of this repo
 2. Resolve any errors using a code editor
 
 # For CLI users
