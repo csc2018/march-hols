@@ -14,7 +14,7 @@
 
 1. Get GitHub desktop [here](https://desktop.github.com/)
 2. Follow the installation instructions
-3. Clone the repository (File > New Repository) with the folder location of your choice
+3. Clone your forked repository (File > Clone Repository) with the folder location of your choice
 4. Open the folder with your code editor and edit the assignment files
 5. You can read the instructions for each assignment on the GitHub repository itself (e.g. [here](https://github.com/csc2018/march-hols/blob/master/assignments/01-introduction/readme.md))
 
