@@ -1,8 +1,8 @@
 ![Banner](assets/csc-march.png)
 
-# March Holidays Assignments
+# CSC 2018 March Assignments
 
-CSC 2018 Assignments for the March Holidays.
+✨ CSC Assignments for March Holidays 2018.
 
 # Getting Started
 
@@ -42,3 +42,10 @@ $ git push -u origin master
 # Pull latest updates (new assignments)
 $ git pull
 ```
+
+# Code Editors
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Atom](https://atom.io)
+* [Sublime Text](https://www.sublimetext.com/)
+* [Notepad++](https://notepad-plus-plus.org/)
+* [repl.it](https://repl.it)
