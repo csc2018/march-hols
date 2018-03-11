@@ -8,7 +8,7 @@
 
 1. Create a GitHub account
 2. Get added to the `csc2018` organisation
-3. Press the **Fork** button on the top right of the GitHub page ([here]([here](https://github.com/csc2018/march-hols)) if you're reading this on your computer elsewhere) to fork this repository
+3. Press the **Fork** button on the top right of the GitHub page ([here](https://github.com/csc2018/march-hols) if you're reading this elsewhere) to fork this repository
 4. Now you should see your own copy of the `march-hols` repository, under your account name.
 
 # Using the Fork
@@ -16,8 +16,8 @@
 1. Get GitHub desktop [here](https://desktop.github.com/)
 2. Follow the installation instructions
 3. Clone your forked repository by going to `File > Clone Repository` in GitHub Desktop
-4. Select the folder location of your choice
-5. Open the folder with your [code editor](https://github.com/csc2018/march-hols#code-editors) and edit the assignment files in the `assignments` folder
+4. Select the folder location of your choice to save the repo into
+5. Open the folder on your computer with your [code editor](https://github.com/csc2018/march-hols#code-editors) and edit the assignment files (in the `assignments` folder)
 6. You can read the instructions for each assignment on the GitHub repository itself (e.g. [here](https://github.com/csc2018/march-hols/blob/master/assignments/01-introduction/readme.md))
  
 # Submission
