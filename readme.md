@@ -1,4 +1,4 @@
-![Banner](assets/csc-march.png)
+![Banner](banner.png)
 
 # CSC 2018 March Assignments
 
@@ -8,7 +8,7 @@
 
 1. Create a GitHub account
 2. Get added to the `csc2018` organisation
-3. **Fork** this repository [here](https://github.com/csc2018/march-hols)
+3. **Fork** this repository [here](https://github.com/csc2018/march-hols), on the top right of the page
 
 # Using the Fork
 
@@ -16,6 +16,7 @@
 2. Follow the installation instructions
 3. Clone the repository (File > New Repository) with the folder location of your choice
 4. Open the folder with your code editor and edit the assignment files
+5. You can read the instructions for each assignment on the GitHub repository itself (e.g. [here](https://github.com/csc2018/march-hols/blob/master/assignments/01-introduction/readme.md))
 
 # Submission
 
