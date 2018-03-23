@@ -4,17 +4,18 @@ Fun string manipulation: Permutations-flavoured!
 
 **Prerequisites**:
 - Python Syntax
-- String Manipulation
+- Strings
+- Loops
 - Uploading to GitHub
 
-# Task
+# Task 1
 
-1. Generate all permutations of the characters in a string.
+1. Generate all permutations of a string.
 2. Take all characters as lowercase.
 3. No repeated strings allowed.
 4. Print the output in console.
 
-See the following examples in console.
+See the following examples.
 
 **Generating permutations**:
 ```
@@ -36,8 +37,37 @@ awss
 wass
 ```
 
-Edit the Python files with the code editor of your choice.
+# Task 2
 
-Remember to run the files using `python filename.py` to see what gets printed.
+1. Generate all possible strings from the characters in a string.
+2. Take all characters as lowercase.
+3. No repeated strings allowed.
+4. Print the output in console.
 
-Commit and push the changes to your repo once you're done.
+See the following example.
+
+```
+What is your string? Saws
+a
+s
+w
+as
+aw
+sa
+sw
+ss
+wa
+ws
+saw
+sas
+swa
+sws
+ssa
+ssw
+
+... and so on
+```
+
+Save your code as 2 separate files.
+
+Commit and push your new files. to your repo once you're done.
