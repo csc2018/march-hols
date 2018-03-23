@@ -60,4 +60,4 @@ Another important observation to make: if the boss is dead at t=t<sub>0</sub>, w
 
 
 
-In the file `assignment.py`, find the line saying `def game_length_opt(a, x, b):` and complete the function using the algorithm described above. A template has already been given.escribed above. A template has already been given.
+In the file `assignment.py`, find the line saying `def game_length_opt(a, x, b):` and complete the function using the algorithm described above. A template has already been given.
