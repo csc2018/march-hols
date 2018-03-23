@@ -21,7 +21,7 @@ def boss_dead(t, a, x, b):
     
     return False
 
-
+# Part 2 - figuring out when the game ends
 def game_length(a, x, b):
     """
     Args:
@@ -40,6 +40,7 @@ def game_length(a, x, b):
 
     return 0
 
+# Part 4 - optimised code using binary search
 def game_length_opt(a, x, b):
     """
     Args:
