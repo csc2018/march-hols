@@ -56,7 +56,7 @@ Another important observation to make: if the boss is dead at t=t<sub>0</sub>, w
 
 ## Part 4
 
-​Your observation in the previous part directly leads to a much more optimal solution to the problem, namely binary search. The game can end anytime between 0 to 10<sup>18</sup> seconds, so we maintain 2 variables, `l = 0` and `r = 1000000000000000000`, representing the starting and ending point of our search space. We guess the number in the middle of `l` and `r`, `m`, each time. If the boss is already dead at t=m, we do not have to care about any value of t greater than m, so we update `r=m`. Similarly, if the boss is not dead at t = m, then we do not have to care about any value of t smaller than m, and we update `l=m` . This continues until `r=l+1`, at which point `r` contains the write answer.
+​Your observation in the previous part directly leads to a much more optimal solution to the problem, namely binary search. The game can end anytime between 0 to 10<sup>18</sup> seconds, so we maintain 2 variables, `l = -1` and `r = 1000000000000000000`, representing the starting and ending point of our search space (starting point is exclusive). We guess the number in the middle of `l` and `r`, `m`, each time. If the boss is already dead at t=m, we do not have to care about any value of t greater than m, so we update `r=m`. Similarly, if the boss is not dead at t = m, then we do not have to care about any value of t smaller than m, and we update `l=m` . This continues until `r=l+1`, at which point `r` contains the write answer.
 
 
 
