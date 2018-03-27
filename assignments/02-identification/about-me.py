@@ -29,7 +29,7 @@ if age > 130 or age < 1:
 cool_index = "Lame"
 
 if likes_arnold == True:
-	cool_index = "Very Lame"
+    cool_index = "Very Lame"
 elif coolness > 100.0:
 	cool_index = "Cool Beans"
 elif coolness > 75.0:
