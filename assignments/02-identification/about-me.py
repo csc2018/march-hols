@@ -2,23 +2,23 @@
 # Don't worry, I'll walk you through it.
 #
 # First, including a # in front of your code will turn it into a comment.
-
+# Cool
 print("This gets printed into console")
 # print("But this doesn't get printed")
 
 # Now we need to create some variables.
 # Create a variable called "name" and assign it your own name as a string.
-
+name = "Zheng Jing"
 
 # Create a variable called "age" and assign it your own age as an integer.
-
+age = 17
 
 # Create a variable called "coolness" and give it a float.
-
+coolness = 9000.0
 
 # Create a variable called "likes_arnold" and give it a boolean.
-
-
+likes_arnold = False
+# sry idk who is arnold
 
 
 # Now watch the magic happen.
@@ -29,7 +29,7 @@ if age > 130 or age < 1:
 cool_index = "Lame"
 
 if likes_arnold == True:
-	cool_index = "Very Lame"
+    cool_index = "Very Lame"
 elif coolness > 100.0:
 	cool_index = "Cool Beans"
 elif coolness > 75.0:
